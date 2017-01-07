@@ -30,3 +30,4 @@ int FlightModePin = 6;
 All you need to do is match the Channel number with the pin you used for the connections.
 [![quadimg.jpg](https://s27.postimg.org/z8o6ej9ir/quadimg.jpg)](https://postimg.org/image/dm95xiay7/)
 [![quadimg2.jpg](https://s30.postimg.org/ns7c1i39t/quadimg2.jpg)](https://postimg.org/image/duwb8fvnx/)
+Min and Max number should stay the same, Min=1000, Max=2000. Throttle Starts at 1000, meaning 0. Roll, Pitch and Yaw start in the middle at 1500. Flight Mode starts a 1000 for level 1, 1500 level 2, and 2000 for level 3.
