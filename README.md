@@ -14,3 +14,14 @@ Yaw Up - E<br>
 Yaw Down - C<br>
 Flight Mode Change - 1, 2, or 3<br>
 Turn Off Everything - L<br>
+
+### Your Config
+You should only need to change a couple things to get this working for you. Change the pin value to a PWM output that is connected to your device.
+
+```bash
+int ThrottlePin = 9;
+int RollPin = 11;
+int PitchPin = 5;
+int YawPin = 3;
+int FlightModePin = 6;
+```
