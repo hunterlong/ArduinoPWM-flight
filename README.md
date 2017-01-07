@@ -3,7 +3,7 @@
 This project allows your Arduino to act as a radio receiver/transmitter. It will output PWM just like a normal RC receiver. 
 
 ### Controls
-To control the flight joysticks, open the Arduino Serial Monitor and type a letter and press Enter.
+To control the flight joysticks, open the Arduino Serial Monitor and type a letter and press Enter.<p>
 Throttle Up - W<br>
 Throttle Down - S<br>
 Roll Up - D<br>
