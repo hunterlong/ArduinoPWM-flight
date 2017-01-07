@@ -1,6 +1,6 @@
 # Arduino PWM Flight
 
-This project allows your Arduino to act as a radio receiver for your quadcopters flight controller. It will output PWM just like a normal RC receiver. This arduino code doesn't communicate directly to your ESC, but should replace your RC receiver that went into your flight controller. On my quadcopter, I'm using CC3D as a flight controller.
+This project allows your Arduino to act as a radio receiver for your quadcopters flight controller. It will output PWM just like a normal RC receiver. This arduino code doesn't communicate directly to your ESC, but should replace your RC receiver that went into your flight controller. On my quadcopter, I'm using CC3D as a flight controller. Your Arduino board must be connected to the same curcuit as your flight controller. 
 
 [![arduquod3.jpg](https://s27.postimg.org/d7frgj1z7/arduquod3.jpg)](https://postimg.org/image/o70ys4se7/)
 
