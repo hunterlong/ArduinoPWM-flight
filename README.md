@@ -25,3 +25,5 @@ int PitchPin = 5;
 int YawPin = 3;
 int FlightModePin = 6;
 ```
+
+[![quadimg.jpg](https://s27.postimg.org/z8o6ej9ir/quadimg.jpg)](https://postimg.org/image/dm95xiay7/)
