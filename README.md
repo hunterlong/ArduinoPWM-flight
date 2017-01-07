@@ -26,4 +26,7 @@ int YawPin = 3;
 int FlightModePin = 6;
 ```
 
+### OpenPilot Configs
+All you need to do is match the Channel number with the pin you used for the connections.
 [![quadimg.jpg](https://s27.postimg.org/z8o6ej9ir/quadimg.jpg)](https://postimg.org/image/dm95xiay7/)
+[![quadimg2.jpg](https://s30.postimg.org/ns7c1i39t/quadimg2.jpg)](https://postimg.org/image/duwb8fvnx/)
